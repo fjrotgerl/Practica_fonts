@@ -15,7 +15,7 @@ public class prova {
         StringBuilder sb = new StringBuilder();
         int start = 0;
         int finish = 3;
-        String a = "b";
+        String a = "*";
 
         for (int j = 0; j < a.length(); j++) {
             a.toUpperCase();
